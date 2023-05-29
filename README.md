@@ -3,7 +3,7 @@
 - 2 Anos De Experiencia Na Área De Testes 🗓️
 - UniFtc | Sistema De Informação 📚
 - 21 anos 🎂
-- Engenheiro de qualidade de software | @<a href="https://www.instagram.com/docktech_/">Dock Tech</a> 🖥️
+- QA Software Engineer | @<a href="https://www.instagram.com/docktech_/">Dock Tech</a> 🖥️
 - Futuro Full Stack 🚀
 
 
