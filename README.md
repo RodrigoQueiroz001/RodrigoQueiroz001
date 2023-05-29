@@ -1,10 +1,17 @@
 ### Opa, tudo bem? Me chamo Rodrigo Queiroz👋
 
+- 2 Anos De Experiencia Na Área De Testes 🗓️
+- UniFtc | Sistema De Informação 📚
+- 21 anos 🎂
+- Engenheiro de qualidade de software | @<a href="https://www.instagram.com/docktech_/">Dock Tech</a> 🖥️
+- Futuro Full Stack 🚀
+
+
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoqueiroz001&theme=dark&show_icons=true)
 
 ##
 
-### Redes Sociais: <h3>
+### 🌎 Redes Sociais: <h3>
 
 <div>
   <a href="https://www.linkedin.com/in/rodrigo-queiroz-5a36521ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
